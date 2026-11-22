@@ -1,0 +1,9 @@
+{
+  "pluginId": "neodex.decorabyss",
+  "repo": "NDesumeur/neodex-plugin-decor-abyss",
+  "version": "1.0.0",
+  "sha256": "14be7e772b6eda8aaf6c607994acb11f45ed3f1cb72d818f9f43e7b9bb4c9109",
+  "approvedAt": "2026-11-22T19:05:25.690Z",
+  "neobase": ">=4.1.0",
+  "signature": "Ie1eOYmLXVbUTGmQViWqcuxzHJuVz3dINdHhUiYwbi4sfqrvQJd1IPKhSSthVyvVbaoGh/8LDqduZaV8v+nyAQ=="
+}
